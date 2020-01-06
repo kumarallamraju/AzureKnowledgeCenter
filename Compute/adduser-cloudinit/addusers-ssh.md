@@ -98,10 +98,6 @@ uid=1004(new_user) gid=1004(new_user) groups=1004(new_user)
 In this post we learned how to create additional users to login to the Azure VM instance via SSH.
 
 
-####References
-
-
-* [Create an SSH public-private key pair for Linux VMs in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys?WT.mc_id=docs-azuredevtips-micrum)
 
 
 
