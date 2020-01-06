@@ -1,9 +1,0 @@
-#cloud-config
-users:
-  - default
-  - name: sushma 
-    groups: sudo
-    shell: /bin/bash
-    sudo: ['ALL=(ALL) NOPASSWD:ALL']
-    ssh-authorized-keys:
-      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC4FpvA4Qgx4OVs1qJb8QuJFCQbrMDGFQbcenB4Lmy6AxW8QRN3KOvQaFEZROwlrTeKY22oyvsTdsDPSt63htzMt1H/fk50EzEZPiKjhM9KqevyR1zzBD5aopKVWkRoyRzAaOj2KLZlbYniRR6EPzdh3JgGgn7VsiedsynWIDCvqIh2gXLum2ZLTNqk1SaQJgpxigw8W8jzJRKQpo4/No9oQFcHHYagEakLBSri3gsd5BAW1Id7ykGMf2NRz87g7cJql7Ym3DaXyD4xYfpDxLd9XzfhVeo7tROs4e57cWXq6Qr1t57N475NKt8U+gMEDJ/haS3JFsNbsTA+fBtvr1Jx kuallamr@BRILAP1137.redmond.corp.microsoft.com
