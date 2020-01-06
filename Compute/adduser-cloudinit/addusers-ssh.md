@@ -1,16 +1,3 @@
----
-type: tip
-title: "Tip XXX - Add new user accounts with SSH access to Azure VM Linux instance"
-excerpt: "How to add new user accounts with SSH access to Azure VM Linux instance?"
-tags: [azure, virtual-machines, SSH]
-share: true
-date: 2019-12-28
----
-
-
-::: TIP 
-
-:bulb: Learn more :  [Use cloud-init to add a new user ](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/cloudinit-add-user?WT.mc_id=docs-azuredevtips-micrum)
 
 
 #####This article was brought to you by [@kumarallamraju](https://twitter.com/kumarallamraju)
